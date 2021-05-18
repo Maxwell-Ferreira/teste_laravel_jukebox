@@ -16,4 +16,5 @@ Teste realizado na segunda fase do processo seletivo para a vaga de desenvolvedo
 Pronto, agora é só utilizar as seguintes rotas para resgatar os registros:
 
 http://localhost:8000/api/pessoas - retorna todas as pessoas
+
 http://localhost:8000/api/{id} - retorna os dados de uma pessoa específica
